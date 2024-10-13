@@ -1,0 +1,24 @@
+# Vector store databases
+chroma_db/
+pdf_rag_db/
+
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# IDE-specific files (optional, but often useful)
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
