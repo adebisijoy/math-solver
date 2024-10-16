@@ -14,10 +14,10 @@ from pdf_rag import PDFRAGSystem
 load_dotenv(".env")
 
 # Get the OpenAI API key from the environment variables
-#openai_api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
-#if not openai_api_key:
-#    raise ValueError("OpenAI API key is missing. Please set it in the .env file.")
+if not openai_api_key:
+    raise ValueError("OpenAI API key is missing. Please set it in the .env file.")
 
 # Initialize FastAPI app
 app = FastAPI()

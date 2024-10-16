@@ -18,7 +18,7 @@ This project implements a Math Solver API with a Retrieval-Augmented Generation 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/AdebisiJoe/fastapi-math-solver.git
+   git clone https://github.com/adebisijoy/math-solver.git
    cd fastapi-math-solver
    ```
 
