@@ -74,6 +74,6 @@ This interactive interface allows you to:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Loom Video Walkthrough
+Watch a quick demo and overview of the project here:
+[Loom Video](https://www.loom.com/share/cc326d1024034085953bff338f8a8fb0?sid=72d09986-c11c-4258-a1eb-3a0011f0861a)
